@@ -9,7 +9,7 @@ namespace Lottery_Generator
         string iLottery;
         int iStore;
         readonly Random rand = new Random();
-        DialogResult iExit;
+        DialogResult iExit; 
         Random rnd = new Random();
 
         public Form1()

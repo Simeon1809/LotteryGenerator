@@ -20,7 +20,7 @@ namespace Lottery_Generator
         private void Form1_Load(object sender, EventArgs e)
         {
             timer7.Enabled = true;
-        }
+        } 
 
         private void btnExit_Click(object sender, EventArgs e)
         {
